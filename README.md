@@ -1,14 +1,9 @@
-# mybank
+# firstring
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure app using ring, compojure and hiccup.
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+```shell
+  $ lein ring server 3000
+```
